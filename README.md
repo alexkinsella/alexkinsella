@@ -1,4 +1,4 @@
-I'm Alex Kinsella, a postdoc at Woods Hole Oceanographic Institution studying air-sea interaction in the South Asian Monsoon. 
+I'm Alex Kinsella, a researcher at Woods Hole Oceanographic Institution studying air-sea interaction in the South Asian Monsoon. 
 
 <!---
 alexkinsella/alexkinsella is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
